@@ -1,0 +1,27 @@
+.navbar-brand {
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.nav-link {
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/* Home Page */
+
+.homepage-heading {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 70vh;
+}
+
+.homepage-para {
+	font-family: 'Petit Formal Script';
+	text-align: center;
+	font-size: 50px;
+}
+
+body {
+	background-color: rgb(67, 79, 134);
+	color: white;
+}
